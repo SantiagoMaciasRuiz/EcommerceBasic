@@ -1,4 +1,4 @@
-package com.ecommerce.order_service.Orden;
+package com.ecommerce.order_service.Order;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 
