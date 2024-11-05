@@ -9,18 +9,21 @@
         <module name="ecommerceApi" />
         <module name="product-service" />
         <module name="order-service" />
+        <module name="Inventory" />
         <module name="ecommerce" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="ecommerce" target="17" />
       <module name="ecommerceApi" target="17" />
+      <module name="Inventory" target="17" />
       <module name="order-service" target="17" />
       <module name="product-service" target="17" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="Inventory" options="-parameters" />
       <module name="ecommerce" options="-parameters" />
       <module name="ecommerceApi" options="-parameters" />
       <module name="order-service" options="-parameters" />
