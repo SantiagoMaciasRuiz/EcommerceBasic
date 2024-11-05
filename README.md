@@ -10,10 +10,8 @@ Este proyecto es una aplicación de comercio electrónico desarrollada utilizand
 3. [Requisitos Previos](#requisitos-previos)
 4. [Configuración e Instalación](#configuración-e-instalación)
 5. [Guía de Uso](#guía-de-uso)
-6. [Endpoints Principales](#endpoints-principales)
-7. [Consideraciones de Seguridad](#consideraciones-de-seguridad)
-8. [Contribuciones](#contribuciones)
-9. [Licencia](#licencia)
+6. [Endpoints Principales](###Endpoints)
+
 
 ## Descripción del Proyecto
 
